@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">AlexandrosTakeOut</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="userName">Username</string>
+    <string name="pw">Password</string>
+    <string name="signUp">Sign Up</string>
+    <string name="user_name">USERNAME*</string>
+    <string name="first_name">FIRST NAME*</string>
+    <string name="last_name">LAST NAME*</string>
+    <string name="email">EMAIL*</string>
+    <string name="address">ADDRESS</string>
+    <string name="city">CITY</string>
+    <string name="postal_code">POSTAL CODE</string>
+    <string name="pw_intro">CHOOSE A PASSWORD*</string>
+    <string name="pw_confirm">CONFIRM PASSWORD*</string>
+    <string name="intro">( * means required input fields)</string>
+    <string name="confirm_register">Sign Up For MarvelRama</string>
+    <string name="user_validation">Cannot include space between characters</string>
+    <string name="user_repeat">Username already exists</string>
+    <string name="email_validation">invalid email format</string>
+    <string name="email_repeat">Email ID is already registered</string>
+    <string name="first_validation">First name is required</string>
+    <string name="last_validation">Last name is required</string>
+    <string name="pw_validation">6-20 characters, at least one uppercase, lowercase, special symbol</string>
+    <string name="pwcon_validation">Must be the same as the password above</string>
+    <string name="personInfo">Personal Information</string>
+    <string name="userId">User ID:</string>
+    <string name="name">Name:</string>
+    <string name="emailAd">Email ID:</string>
+    <string name="addressCom">Address:</string>
+    <string name="password">Password:</string>
+    <string name="update">Update Info</string>
+    <string name="title_activity_movie">MovieActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="username_login">Username does not exist</string>
+    <string name="pw_login">Password is not correct</string>
+    <string name="phone_validation">Invalid phone number</string>
+    <string name="phone_repeat">This phone number has already been registered</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrid Map</string>
+    <string name="satellite_map">Satelite Map</string>
+    <string name="terrain_map">Terrain Map</string>
+</resources>
